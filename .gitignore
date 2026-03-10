@@ -1,0 +1,26 @@
+# Build directories
+build/
+out/
+cmake-build-*/
+
+# Compiled binaries
+*.exe
+*.dll
+*.so
+*.dylib
+*.o
+*.obj
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+install_manifest.txt
+
+# VS Code settings (optional - remove if you want to share settings)
+.vscode/
+
+# Windows junk
+Thumbs.db
+desktop.ini
